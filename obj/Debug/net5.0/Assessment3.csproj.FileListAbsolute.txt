@@ -1,0 +1,16 @@
+C:\Users\Arusim Groceries\Desktop\Assessment3\bin\Debug\net5.0\Assessment3.exe
+C:\Users\Arusim Groceries\Desktop\Assessment3\bin\Debug\net5.0\Assessment3.deps.json
+C:\Users\Arusim Groceries\Desktop\Assessment3\bin\Debug\net5.0\Assessment3.runtimeconfig.json
+C:\Users\Arusim Groceries\Desktop\Assessment3\bin\Debug\net5.0\Assessment3.runtimeconfig.dev.json
+C:\Users\Arusim Groceries\Desktop\Assessment3\bin\Debug\net5.0\Assessment3.dll
+C:\Users\Arusim Groceries\Desktop\Assessment3\bin\Debug\net5.0\ref\Assessment3.dll
+C:\Users\Arusim Groceries\Desktop\Assessment3\bin\Debug\net5.0\Assessment3.pdb
+C:\Users\Arusim Groceries\Desktop\Assessment3\obj\Debug\net5.0\Assessment3.csproj.AssemblyReference.cache
+C:\Users\Arusim Groceries\Desktop\Assessment3\obj\Debug\net5.0\Assessment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arusim Groceries\Desktop\Assessment3\obj\Debug\net5.0\Assessment3.AssemblyInfoInputs.cache
+C:\Users\Arusim Groceries\Desktop\Assessment3\obj\Debug\net5.0\Assessment3.AssemblyInfo.cs
+C:\Users\Arusim Groceries\Desktop\Assessment3\obj\Debug\net5.0\Assessment3.csproj.CoreCompileInputs.cache
+C:\Users\Arusim Groceries\Desktop\Assessment3\obj\Debug\net5.0\Assessment3.dll
+C:\Users\Arusim Groceries\Desktop\Assessment3\obj\Debug\net5.0\ref\Assessment3.dll
+C:\Users\Arusim Groceries\Desktop\Assessment3\obj\Debug\net5.0\Assessment3.pdb
+C:\Users\Arusim Groceries\Desktop\Assessment3\obj\Debug\net5.0\Assessment3.genruntimeconfig.cache
